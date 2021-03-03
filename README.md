@@ -1,4 +1,4 @@
-# React App - Render a Graph with your date/data
+# React App - Contact Information
 
 This single page will show you contact information and you can add/remove/modify the contact information.
 <br /><br /><br />
