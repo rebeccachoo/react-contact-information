@@ -5,7 +5,7 @@ This single page will show you contact information and you can add/remove/modify
 
 | Feature | Description |
 | -----: | :----------- |
-|  Initial state | <img src="https://github.com/rebeccachoo/react-graph-with-date-and-data/blob/main/screenshot.png?raw=true"  width="400">|  
+|  Initial state | <img src="https://raw.githubusercontent.com/rebeccachoo/react-contact-information/main/Screenshot.png"  width="400">|  
 
 
 ## Installation
