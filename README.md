@@ -1,6 +1,6 @@
 # React App - Contact Information
 
-This single page will show you contact information and you can add/remove/modify the contact information.
+This single page will show you contact information and you can add/remove/modify the contact information. The contact information contains first name, last name, description, address, phone, and date the information is created.
 <br /><br /><br />
 
 | Feature | Description |
