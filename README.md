@@ -5,7 +5,10 @@ This single page will show you contact information and you can add/remove/modify
 
 | Feature | Description |
 | -----: | :----------- |
-|  Initial state | <img src="https://raw.githubusercontent.com/rebeccachoo/react-contact-information/main/Screenshot.png"  width="400">|  
+|  Initial state | <img src="https://raw.githubusercontent.com/rebeccachoo/react-contact-information/main/Screenshot.png"  width="400">| 
+|  After two contacts added | <img src="https://github.com/rebeccachoo/react-contact-information/blob/main/Screenshot2.png?raw=true"  width="400">|  
+
+
 
 
 ## Installation
