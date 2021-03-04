@@ -7,7 +7,8 @@ This is a single page app that shows business cards. You can add/modify/remove t
 |  Initial State | <img src="https://raw.githubusercontent.com/rebeccachoo/react-contact-information/main/screen.png"  width="400">|
 |  One conatct added | <img src="https://raw.githubusercontent.com/rebeccachoo/react-contact-information/main/screen-added.png"  width="400">|
 |  One conatct removed | <img src="https://raw.githubusercontent.com/rebeccachoo/react-contact-information/main/screen-removed.png"  width="400">|
-
+|  Update a contact | <img src="https://raw.githubusercontent.com/rebeccachoo/react-contact-information/main/screen-update.png"  width="400">|
+ 
 ## Installation
 
 You can simply download the files on your computer. <br />
