@@ -5,7 +5,7 @@ This is a single page app that shows business cards. You can add/modify/remove t
 | Feature | Description |
 | -----: | :----------- |
 |  Initial State | <img src="https://github.com/rebeccachoo/react-hangman/blob/main/screen1.png?raw=true"  width="400">|
-|  Crazy Mode | <img src="https://github.com/rebeccachoo/react-hangman/blob/main/screen2.png?raw=true"  width="400">|
+|  One conatct added | <img src="https://raw.githubusercontent.com/rebeccachoo/react-contact-information/main/screen-added.png"  width="400">|
 
 ## Installation
 
