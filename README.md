@@ -1,6 +1,6 @@
 # React - Business Card Collection
 
-This is a single page app that shows business cards. You can add/modify/remove them. <br /><br /><br />
+This is a single page app that shows business cards. You can add, modify, or remove them. <br /><br /><br />
 
 | Feature | Description |
 | -----: | :----------- |
